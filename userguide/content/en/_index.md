@@ -1,6 +1,5 @@
 ---
 title: Dali-TDLI
-description: TDLI
 ---
 
 {{% blocks/cover title="" image_anchor="top" height="full" %}}
@@ -10,7 +9,6 @@ description: TDLI
 
 
 
-{{% blocks/link-down color="info" %}}
 
 
 
