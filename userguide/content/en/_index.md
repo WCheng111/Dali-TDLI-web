@@ -1,9 +1,9 @@
 ---
-title: Docsy
-description: A Hugo theme for creating great technical documentation sites
+title: Dali-TDLI
+description: 
 ---
 
-{{% blocks/cover title="Welcome to Docsy!" image_anchor="top" height="full" %}}
+{{% blocks/cover title="" image_anchor="top" height="full" %}}
 {{% param description %}}
 {.display-6}
 
@@ -15,10 +15,7 @@ description: A Hugo theme for creating great technical documentation sites
 {{% /blocks/cover %}}
 
 {{% blocks/lead color="primary" %}}
-Docsy is a theme for the Hugo static site generator that's specifically designed
-for technical documentation sets. Our aim is to help you get a working
-documentation site up and running as easily as possible, so you can concentrate
-on creating great content for your users.
+Dali-TDLI is a cultural center jointly established by the Tsung-Dao Lee Institute and the Dali Taibao Home..
 
 <a href="https://www.netlify.com/" target="_blank" rel="noopener">
   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" />
