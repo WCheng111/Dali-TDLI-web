@@ -1,6 +1,6 @@
 ---
 title: Dali-TDLI
-description: ""
+description: TDLI
 ---
 
 {{% blocks/cover title="" image_anchor="top" height="full" %}}
