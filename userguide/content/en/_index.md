@@ -7,11 +7,15 @@ description: ---
 {{% param description %}}
 {.display-6}
 
+{{/*
 <a class="btn btn-lg btn-primary me-3" href="about/">Learn More</a>
 <a class="btn btn-lg btn-secondary" href="docs/get-started/">Get started</a>
 {.p-initial .my-5}
 
+
+
 {{% blocks/link-down color="info" %}}
+*/}}
 {{% /blocks/cover %}}
 
 {{% blocks/lead color="primary" %}}
