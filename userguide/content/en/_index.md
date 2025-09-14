@@ -3,7 +3,6 @@ title: Dali-TDLI
 ---
 
 {{% blocks/cover title="" image_anchor="top" height="full" %}}
-{{% param description %}}
 {.display-6}
 
 
