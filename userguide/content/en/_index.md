@@ -33,6 +33,9 @@ As well as our example site, there's a growing number of projects using Docsy fo
 We do a [Pull Request](https://github.com/google/docsy/pulls) contributions workflow on **GitHub**. New users are always welcome!
 {{% /blocks/feature %}}
 
+{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/google/docsy" %}}
+We do a [Pull Request](https://github.com/google/docsy/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-brands fa-x-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
 Find out about new features and how our users are using Docsy.
