@@ -1,5 +1,5 @@
 ---
-title: About Docsy
+title: Dali
 linkTitle: About
 menu: {main: {weight: 10}}
 ---
