@@ -13,7 +13,7 @@ Founded by scientists, artists, and cultural advocates, the Center operates unde
 Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% /blocks/cover %}}
 
-{{% blocks/section color="primary" %}}
+{{% blocks/section color="300" %}}
 ## **Mission**
 
 * •	Interdisciplinary Exchange: Break down disciplinary barriers, enabling scientists and artists to engage in dialogue and collaboration.
@@ -57,10 +57,10 @@ Our year-round programs include:
 ### Residency Program
 Residency Program
 We offer residencies ranging from two weeks to three months, including:
-•	Private studios or lab spaces
-•	Accommodation and living support
-•	Opportunities for interdisciplinary exchange with other residents
-•	Platforms to present work to the public
+* •	Private studios or lab spaces
+* •	Accommodation and living support
+* •	Opportunities for interdisciplinary exchange with other residents
+* •	Platforms to present work to the public
 [Learn more...](/docs/deployment/)
 
 ### Governance
