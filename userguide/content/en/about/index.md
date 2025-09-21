@@ -1,6 +1,6 @@
 ---
-title: Dali-TDLI
-linkTitle: Dali-TDLI
+title: About
+linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
@@ -23,8 +23,9 @@ Read on to find out more, or visit our [documentation](/docs/) to get started!
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="white" %}}
+{{% blocks/section color="250" %}}
 ## Events
+
 Our year-round programs include:
 <table>
   <tr>
@@ -53,8 +54,10 @@ Our year-round programs include:
   </tr>
   <tr>
 </table>
+{{% blocks/section color="200" %}}
 
 ### Residency Program
+
 Residency Program
 We offer residencies ranging from two weeks to three months, including:
 * •	Private studios or lab spaces
@@ -62,21 +65,27 @@ We offer residencies ranging from two weeks to three months, including:
 * •	Opportunities for interdisciplinary exchange with other residents
 * •	Platforms to present work to the public
 [Learn more...](/docs/deployment/)
+{{% blocks/section color="150" %}}
 
 ### Governance
+
 The Dali Center for Science & Art is creator-driven, with a lean administrative team that channels the majority of resources into academic and artistic activities.
 Volunteers, board members, and partners contribute significant time and energy each year to ensure the Center remains open, free, and of the highest quality.
 [Learn more...](/docs/deployment/)
+{{% blocks/section color="100" %}}
 
 ### Visit Us
+
 Whether you are a scientist, an artist, or simply curious about cross-disciplinary culture, you are welcome at the Dali Center for Science & Art. You can:
 •	Attend public events
 •	Apply for the residency program
 •	Volunteer or become a partner
 •	Follow our online platforms for the latest updates
 [Learn more...](/docs/deployment/)
+{{% blocks/section color="50" %}}
 
 ### Contact 
+
 * [**📍 Address**](https://github.com): Dali, Yunnan Province, China
 * [**📧 Email**](https://analytics.google.com/analytics/web/): info@dali-scienceart.org
 * [**🌐 Website**](https://cse.google.com/cse/): www.dali-scienceart.org

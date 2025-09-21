@@ -14,7 +14,7 @@ description: null
 
 {{% /blocks/cover %}}
 
-{{% blocks/lead color="primary" %}}
+{{% blocks/lead color="300" %}}
 Dali-TDLI is a cultural center jointly established by the Tsung-Dao Lee Institute and the Dali Taibao Home..
 
 <a href="https://www.netlify.com/" target="_blank" rel="noopener">
@@ -28,10 +28,6 @@ Dali-TDLI is a cultural center jointly established by the Tsung-Dao Lee Institut
 As well as our example site, there's a growing number of projects using Docsy for their doc sites.
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/google/docsy" %}}
-We do a [Pull Request](https://github.com/google/docsy/pulls) contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-brands fa-github" title="Contributions welcome!" url="https://github.com/google/docsy" %}}
 We do a [Pull Request](https://github.com/google/docsy/pulls) contributions workflow on **GitHub**. New users are always welcome!
