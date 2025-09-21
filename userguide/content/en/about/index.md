@@ -13,7 +13,7 @@ Founded by scientists, artists, and cultural advocates, the Center operates unde
 Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% /blocks/cover %}}
 
-{{% blocks/section color="$green-600" %}}
+{{% blocks/section color="300" %}}
 ## **Mission**
 
 * •	Interdisciplinary Exchange: Break down disciplinary barriers, enabling scientists and artists to engage in dialogue and collaboration.
@@ -23,7 +23,7 @@ Read on to find out more, or visit our [documentation](/docs/) to get started!
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="$green-500" %}}
+{{% blocks/section color="light" %}}
 ## Events
 
 Our year-round programs include:
@@ -56,7 +56,7 @@ Our year-round programs include:
 </table>
 {{% /blocks/section %}}
 
-{{% blocks/section color="green-400" %}}
+{{% blocks/section color="300" %}}
 
 ### Residency Program
 
@@ -69,7 +69,7 @@ We offer residencies ranging from two weeks to three months, including:
 [Learn more...](/docs/deployment/)
 {{% /blocks/section %}}
 
-{{% blocks/section color="green-300" %}}
+{{% blocks/section color="light" %}}
 
 ### Governance
 
@@ -78,7 +78,7 @@ Volunteers, board members, and partners contribute significant time and energy e
 [Learn more...](/docs/deployment/)
 {{% /blocks/section %}}
 
-{{% blocks/section color="green-200" %}}
+{{% blocks/section color="300" %}}
 
 ### Visit Us
 
@@ -90,7 +90,7 @@ Whether you are a scientist, an artist, or simply curious about cross-disciplina
 [Learn more...](/docs/deployment/)
 {{% /blocks/section %}}
 
-{{% blocks/section color="green-100" %}}
+{{% blocks/section color="light" %}}
 
 ### Contact 
 
