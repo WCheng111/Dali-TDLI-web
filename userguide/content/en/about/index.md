@@ -54,6 +54,8 @@ Our year-round programs include:
   </tr>
   <tr>
 </table>
+{{% /blocks/section %}}
+
 {{% blocks/section color="200" %}}
 
 ### Residency Program
@@ -65,6 +67,8 @@ We offer residencies ranging from two weeks to three months, including:
 * •	Opportunities for interdisciplinary exchange with other residents
 * •	Platforms to present work to the public
 [Learn more...](/docs/deployment/)
+{{% /blocks/section %}}
+
 {{% blocks/section color="150" %}}
 
 ### Governance
@@ -72,6 +76,8 @@ We offer residencies ranging from two weeks to three months, including:
 The Dali Center for Science & Art is creator-driven, with a lean administrative team that channels the majority of resources into academic and artistic activities.
 Volunteers, board members, and partners contribute significant time and energy each year to ensure the Center remains open, free, and of the highest quality.
 [Learn more...](/docs/deployment/)
+{{% /blocks/section %}}
+
 {{% blocks/section color="100" %}}
 
 ### Visit Us
@@ -82,6 +88,8 @@ Whether you are a scientist, an artist, or simply curious about cross-disciplina
 •	Volunteer or become a partner
 •	Follow our online platforms for the latest updates
 [Learn more...](/docs/deployment/)
+{{% /blocks/section %}}
+
 {{% blocks/section color="50" %}}
 
 ### Contact 
