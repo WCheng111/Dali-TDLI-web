@@ -22,7 +22,7 @@ Dali-TDLI is a cultural center jointly established by the Tsung-Dao Lee Institut
 </a>
 {{% /blocks/lead %}}
 
-{{% blocks/section color="teal 900" type="row" %}}
+{{% blocks/section color="dark" type="row" %}}
 
 {{% blocks/feature icon="fa-lightbulb" title="See Docsy in action!" url="/docs/examples/" %}}
 As well as our example site, there's a growing number of projects using Docsy for their doc sites.
