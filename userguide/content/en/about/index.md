@@ -13,7 +13,7 @@ Founded by scientists, artists, and cultural advocates, the Center operates unde
 Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% /blocks/cover %}}
 
-{{% blocks/section color="300" %}}
+{{% blocks/section color="gray" %}}
 ## **Mission**
 
 * •	Interdisciplinary Exchange: Break down disciplinary barriers, enabling scientists and artists to engage in dialogue and collaboration.
