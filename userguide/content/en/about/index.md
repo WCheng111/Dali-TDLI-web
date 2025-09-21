@@ -4,7 +4,7 @@ linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Dali-TDLI" height="auto" %}}
+{{% blocks/cover title="About" height="auto" %}}
 
 The Dali Center for Science & Art is dedicated to creating a platform where the rigor of science meets the creativity of art.
 We believe that both scientific exploration and artistic expression are driven by the same human forces—curiosity and imagination. Whether it’s cutting-edge theoretical physics or avant-garde artistic experiments, they can find resonance here.
