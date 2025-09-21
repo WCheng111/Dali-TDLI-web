@@ -13,7 +13,7 @@ Founded by scientists, artists, and cultural advocates, the Center operates unde
 Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% /blocks/cover %}}
 
-{{% blocks/section color="green-600" %}}
+{{% blocks/section color="$green-600" %}}
 ## **Mission**
 
 * •	Interdisciplinary Exchange: Break down disciplinary barriers, enabling scientists and artists to engage in dialogue and collaboration.
@@ -23,7 +23,7 @@ Read on to find out more, or visit our [documentation](/docs/) to get started!
 
 {{% /blocks/section %}}
 
-{{% blocks/section color="green-500" %}}
+{{% blocks/section color="$green-500" %}}
 ## Events
 
 Our year-round programs include:
