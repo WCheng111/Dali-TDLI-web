@@ -62,15 +62,8 @@ params:
       [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
     from_year: 2018
   privacy_policy: https://policies.google.com/privacy
-  versions:
-    - version: master
-      url: 'https://master.kubeflow.org'
-    - version: v0.2
-      url: 'https://v0-2.kubeflow.org'
-    - version: v0.3
-      url: 'https://v0-3.kubeflow.org'
   version_menu: Releases
-  archived_version: true
+  archived_version: false
   version: 0.12.0
   url_latest_version: https://example.com
   github_repo: https://github.com/google/docsy
