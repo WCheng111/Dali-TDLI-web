@@ -14,7 +14,7 @@ description: null
 
 {{% /blocks/cover %}}
 
-{{% blocks/lead color="teal 100" %}}
+{{% blocks/lead color="300" %}}
 Dali-TDLI is a cultural center jointly established by the Tsung-Dao Lee Institute and the Dali Taibao Home..
 
 <a href="https://www.netlify.com/" target="_blank" rel="noopener">
