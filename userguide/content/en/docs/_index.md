@@ -1,6 +1,6 @@
 ---
 title: Welcome to Docsy
-linkTitle: Documentation
+linkTitle: activity
 menu: { main: { weight: 20 } }
 ---
 
