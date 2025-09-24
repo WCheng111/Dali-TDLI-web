@@ -4,11 +4,22 @@ linkTitle: About
 menu: {main: {weight: 10}}
 ---
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+{{% blocks/cover title="Dali" height="auto" %}}
+Docsy is a pre-configured Hugo theme that provides the core features and behaviors needed to create a technical documentation site. Use Docsy to set up your documentation website, including an optional Blog section, and then spend your time focusing on authoring technical content. Depending on how you choose to configure Docsy and whether you use a hosting service that supports continuous builds, you can even just add your Markdown or HTML content file into a folder on your source repository, and then sit back while it automatically gets added to your site - complete with updated menus.
+=======
+>>>>>>> Stashed changes
 {{% blocks/cover title="About" height="auto" %}}
 
 The Dali Center for Science & Art is dedicated to creating a platform where the rigor of science meets the creativity of art.
 We believe that both scientific exploration and artistic expression are driven by the same human forces—curiosity and imagination. Whether it’s cutting-edge theoretical physics or avant-garde artistic experiments, they can find resonance here.
 Founded by scientists, artists, and cultural advocates, the Center operates under the principle of “by creators, for creators”, maintaining a lean and efficient administrative structure to support the freest and most open exchange of ideas.
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/main
+>>>>>>> Stashed changes
 
 Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% /blocks/cover %}}
