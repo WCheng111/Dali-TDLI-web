@@ -1,5 +1,5 @@
 baseURL: https://www.docsy.dev/
-title: Dali-TDLI
+title: Docsy
 enableRobotsTXT: true
 enableGitInfo: true
 theme: [docsy]
