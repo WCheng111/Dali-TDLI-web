@@ -22,7 +22,8 @@ Founded by scientists, artists, and cultural advocates, the Center operates unde
 >>>>>>> Stashed changes
 
 Read on to find out more, or visit our [documentation](/docs/) to get started!
-{{% /blocks/cover %}}
+
+{{< /blocks/cover >}}
 
 {{% blocks/section color="gray" %}}
 ## **Mission**
