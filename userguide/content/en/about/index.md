@@ -16,12 +16,45 @@ Read on to find out more, or visit our [documentation](/docs/) to get started!
 {{% blocks/section color="gray" %}}
 ## **Mission**
 
-* •	Interdisciplinary Exchange: Break down disciplinary barriers, enabling scientists and artists to engage in dialogue and collaboration.
-* •	Knowledge Sharing: Share the latest achievements in science and art with the public through lectures, exhibitions, and workshops.
-* •	Creative Support: Provide a quiet, flexible, and resource-rich environment for resident scholars and artists.
-* •	Community Connection: Build long-term partnerships with cultural, educational, and research institutions in Dali and around the world.
+* Interdisciplinary Exchange: Break down disciplinary barriers, enabling scientists and artists to engage in dialogue and collaboration.
+* Knowledge Sharing: Share the latest achievements in science and art with the public through lectures, exhibitions, and workshops.
+* Creative Support: Provide a quiet, flexible, and resource-rich environment for resident scholars and artists.
+* Community Connection: Build long-term partnerships with cultural, educational, and research institutions in Dali and around the world.
 
 {{% /blocks/section %}}
+
+{{< card header="**Imagine**" title="Artist and songwriter: John Lennon" subtitle="Co-writer: Yoko Ono"
+ footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')">}}
+Imagine there's no heaven, It's easy if you try<br/>
+No hell below us, above us only sky<br/>
+Imagine all the people living for today…
+{{< /card >}}
+
+{{< card header="**Imagine**2" title="Artist and songwriter: John Lennon" subtitle="Co-writer: Yoko Ono"
+ footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')">}}
+Imagine there's no heaven, It's easy if you try<br/>
+No hell below us, above us only sky<br/>
+Imagine all the people living for today…
+{{< /card >}}
+
+{{< card header="**Imagine**3" title="Artist and songwriter: John Lennon" subtitle="Co-writer: Yoko Ono"
+ footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')">}}
+Imagine there's no heaven, It's easy if you try<br/>
+No hell below us, above us only sky<br/>
+Imagine all the people living for today…
+{{< /card >}}
+
+{{< cardpane >}}
+  {{< card header="**Imagine**" >}}
+    Content card 1
+  {{< /card >}}
+  {{< card header="**Imagine**2" >}}
+    Content card 2
+  {{< /card >}}
+  {{< card header="**Imagine**3" >}}
+    Content card 3
+  {{< /card >}}
+{{< /cardpane >}}
 
 {{% blocks/section color="light" %}}
 ## Events
@@ -62,10 +95,10 @@ Our year-round programs include:
 
 Residency Program
 We offer residencies ranging from two weeks to three months, including:
-* •	Private studios or lab spaces
-* •	Accommodation and living support
-* •	Opportunities for interdisciplinary exchange with other residents
-* •	Platforms to present work to the public
+* Private studios or lab spaces
+* Accommodation and living support
+* Opportunities for interdisciplinary exchange with other residents
+* Platforms to present work to the public
 [Learn more...](/docs/deployment/)
 {{% /blocks/section %}}
 
