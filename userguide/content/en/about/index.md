@@ -16,7 +16,8 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 {{% blocks/section color="gray" height="auto"%}}
 
 ## Events
-
+{{% imgproc Conference202502.jpeg Fit "400x300" %}}  
+{{% /imgproc %}}
 
 {{< cardpane >}}
   {{< card header="**February 2025**" title="International Conference on Majorana Zero Modes: from Topological Superconductors to Non-Abelian Braiding Statistics" >}}
