@@ -6,7 +6,7 @@ menu: {main: {weight: 70}}
 
 {{% blocks/cover title="About" height="auto" %}}
 
-On the morning of July 6, 2025, the Dali Tsung-Dao Lee Center for Sciences and Arts was officially inaugurated at the Pacific Care Home Dali International Holiday Retirement Community. 
+On the morning of July 6, 2025, the Dali Tsung-Dao Lee Center for Sciences and Arts was officially inaugurated at the Pacific Care Home Dali International Holiday Retirement Community. 
 
 Spearheaded by Academician Ding Hong, Deputy Director of Tsung-Dao Lee Institute at Shanghai Jiao Tong University, the center is jointly established by the Cang-Er Center for Scientific and Artistic Exchange of the Dali Bai Autonomous Prefecture and the Pacific Care Home Dali International Holiday Retirement Community. 
 
@@ -16,22 +16,32 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 {{% blocks/section color="gray" height="auto"%}}
 
 ## Events
+
+<div class="text-center">
 {{< cardpane >}}
-  {{< card header="**February 2025**" title="International Conference on Majorana Zero Modes: from Topological Superconductors to Non-Abelian Braiding Statistics" footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')" >}}
-    Content card 1
+  {{< card header="**February 2025**" title="International Conference on Majorana Zero Modes: from Topological Superconductors to Non-Abelian Braiding Statistics" >}}
+    Content card 1  
+    {{< imgproc "Conference202502.jpeg" Fit "400x300" >}}  
+    *Majorana Conference Poster*
   {{< /card >}}
-  {{< card header="**July 2025**" title="Symposium on the Beauty of Science and Art" footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')" >}}
-    Content card 2
+
+  {{< card header="**July 2025**" title="Symposium on the Beauty of Science and Art" >}}
+    Content card 2  
+    {{< imgproc "Symposium202507.jpg" Fit "400x300" >}}  
+    *Symposium Poster*
   {{< /card >}}
+
   {{< card header="**Imagine**3" >}}
-    Content card 3
+    Content card 3  
+    {{< imgproc "imagine.jpg" Fit "400x300" >}}  
+    *Artistic Imagination*
   {{< /card >}}
 {{< /cardpane >}}
+</div>
 
 {{% /blocks/section %}}
 
 {{% blocks/section color="300" %}}
-
 
 ### Residency Program
 
@@ -58,9 +68,9 @@ Volunteers, board members, and partners contribute significant time and energy e
 ### Visit Us
 
 Whether you are a scientist, an artist, or simply curious about cross-disciplinary culture, you are welcome at the Dali Center for Science & Art. You can:
-•	Attend public events
-•	Apply for the residency program
-•	Volunteer or become a partner
-•	Follow our online platforms for the latest updates
+•   Attend public events  
+•   Apply for the residency program  
+•   Volunteer or become a partner  
+•   Follow our online platforms for the latest updates  
 [Learn more...](/docs/deployment/)
 {{% /blocks/section %}}
