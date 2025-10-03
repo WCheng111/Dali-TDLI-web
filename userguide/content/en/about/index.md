@@ -1,6 +1,6 @@
 ---
 title: About
-linkTitle: Activity
+linkTitle: About
 menu: {main: {weight: 50}}
 ---
 
