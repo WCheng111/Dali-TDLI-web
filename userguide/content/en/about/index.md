@@ -4,7 +4,7 @@ linkTitle: About
 menu: {main: {weight: 70}}
 
 resources:
-  - src: '**Conference202502*.jpeg'
+  - src: '**640*.jpg'
     params:
       byline: '*Photo*: Conference'
 params:
@@ -24,7 +24,7 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 {{% blocks/section color="gray" height="auto"%}}
 
 ## Events
-{{% imgproc Conference202502.jpeg Fit "400x300" %}}  
+{{% imgproc 640.jpg Fit "400x300" %}}  
 {{% /imgproc %}}
 
 {{% imgproc spruce Fill "400x450" %}}
@@ -35,7 +35,7 @@ Norway Spruce *Picea abies* shoot with foliage buds.
 {{< cardpane >}}
   {{< card header="**February 2025**" title="International Conference on Majorana Zero Modes: from Topological Superconductors to Non-Abelian Braiding Statistics" >}}
     Content card 1  
-    {{% imgproc Conference202502.jpeg Fit "400x300" %}}  
+    {{% imgproc 640.jpg Fit "400x300" %}}  
     {{% /imgproc %}}
     *Majorana Conference Poster*
   {{< /card >}}
