@@ -1,6 +1,0 @@
----
-title: Blog
-linkTitle: Apply
-menu: { main: { weight: 50 } }
----
-The Dali Tsung-Dao Lee Center for Sciences and Arts takes "Science, Art, and Nature" as its core theme and draws inspiration from global renowned academic institutions such as the Aspen Center for Physics. It focuses on cutting-edge issues in fundamental science and avant-garde explorations in artistic creation. The center is equipped with 30 independent workspaces to support long-term residency programs for small research groups, alongside comprehensive facilities for conferences, accommodations, and office use. The center plans to host approximately 20 international academic and artistic events annually, each lasting from one to four weeks, bringing together some of the world’s most creative scientists and artists. These extended gatherings in the picturesque setting of Dali are designed to foster open dialogue, spark inspiration, and generate original, boundary-breaking outcomes.In addition to academic exchange, the center will also engage with the public by organizing science lectures and art exhibitions in collaboration with local universities and media outlets, promoting cross-disciplinary communication and public participation.
