@@ -1,16 +1,16 @@
 ---
 title: About
 linkTitle: About
-menu: {main: {weight: 50}}
+menu: {main: {weight: 70}}
 ---
 
 {{% blocks/cover title="About" height="auto" %}}
 
-The Dali Center for Science & Art is dedicated to creating a platform where the rigor of science meets the creativity of art.
-We believe that both scientific exploration and artistic expression are driven by the same human forces—curiosity and imagination. Whether it’s cutting-edge theoretical physics or avant-garde artistic experiments, they can find resonance here.
-Founded by scientists, artists, and cultural advocates, the Center operates under the principle of “by creators, for creators”, maintaining a lean and efficient administrative structure to support the freest and most open exchange of ideas.
+On the morning of July 6, 2025, the Dali Tsung-Dao Lee Center for Sciences and Arts was officially inaugurated at the Pacific Care Home Dali International Holiday Retirement Community. 
 
-Read on to find out more, or visit our [documentation](/docs/) to get started!
+Spearheaded by Academician Ding Hong, Deputy Director of Tsung-Dao Lee Institute at Shanghai Jiao Tong University, the center is jointly established by the Cang-Er Center for Scientific and Artistic Exchange of the Dali Bai Autonomous Prefecture and the Pacific Care Home Dali International Holiday Retirement Community. 
+
+Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are two sides of the same coin,” the center aspires to become a world-class interdisciplinary innovation platform—integrating science, art, and nature.
 {{% /blocks/cover %}}
 
 {{% blocks/section color="gray" %}}
@@ -23,32 +23,12 @@ Read on to find out more, or visit our [documentation](/docs/) to get started!
 
 {{% /blocks/section %}}
 
-{{< card header="**Imagine**" title="Artist and songwriter: John Lennon" subtitle="Co-writer: Yoko Ono"
- footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')">}}
-Imagine there's no heaven, It's easy if you try<br/>
-No hell below us, above us only sky<br/>
-Imagine all the people living for today…
-{{< /card >}}
-
-{{< card header="**Imagine**2" title="Artist and songwriter: John Lennon" subtitle="Co-writer: Yoko Ono"
- footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')">}}
-Imagine there's no heaven, It's easy if you try<br/>
-No hell below us, above us only sky<br/>
-Imagine all the people living for today…
-{{< /card >}}
-
-{{< card header="**Imagine**3" title="Artist and songwriter: John Lennon" subtitle="Co-writer: Yoko Ono"
- footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')">}}
-Imagine there's no heaven, It's easy if you try<br/>
-No hell below us, above us only sky<br/>
-Imagine all the people living for today…
-{{< /card >}}
-
+## Events
 {{< cardpane >}}
-  {{< card header="**Imagine**" >}}
+  {{< card header="**February 2025**" title="International Conference on Majorana Zero Modes: from Topological Superconductors to Non-Abelian Braiding Statistics" footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')" >}}
     Content card 1
   {{< /card >}}
-  {{< card header="**Imagine**2" >}}
+  {{< card header="**July 2025**" title="Symposium on the Beauty of Science and Art" footer="![SignatureJohnLennon](https://server.tld/…/signature.png 'Signature John Lennon')" >}}
     Content card 2
   {{< /card >}}
   {{< card header="**Imagine**3" >}}
@@ -57,39 +37,7 @@ Imagine all the people living for today…
 {{< /cardpane >}}
 
 {{% blocks/section color="light" %}}
-## Events
 
-Our year-round programs include:
-<table>
-  <tr>
-   <td><strong>Academic Workshops</strong>
-   </td>
-   <td>Inviting scientists from around the world to share their latest research.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Art Exhibitions</strong>
-   </td>
-   <td>Showcasing cross-media and cross-disciplinary artistic creations.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Public Lectures</strong>
-   </td>
-   <td>Accessible talks on science and art for the general public.
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Residency Showcases</strong>
-   </td>
-   <td>Presenting the outcomes of collaborations between scientists and artists during their stay.
-   </td>
-  </tr>
-  <tr>
-</table>
-{{% /blocks/section %}}
-
-{{% blocks/section color="300" %}}
 
 ### Residency Program
 
@@ -121,17 +69,4 @@ Whether you are a scientist, an artist, or simply curious about cross-disciplina
 •	Volunteer or become a partner
 •	Follow our online platforms for the latest updates
 [Learn more...](/docs/deployment/)
-{{% /blocks/section %}}
-
-{{% blocks/section color="light" %}}
-
-### Contact 
-
-* [**📍 Address**](https://github.com): Dali, Yunnan Province, China
-* [**📧 Email**](https://analytics.google.com/analytics/web/): info@dali-scienceart.org
-* [**🌐 Website**](https://cse.google.com/cse/): www.dali-scienceart.org
-* [**📱 Social Media**](https://docsearch.algolia.com): Weibo / WeChat Official Account 
-
-You can find out how to update your site to the latest version of Docsy in [Keeping the theme up to date](/docs/updating/).
-<!-- There must not be a blank line at the end of this file otherwise it creates an empty paragraph in the rendered page -->
 {{% /blocks/section %}}
