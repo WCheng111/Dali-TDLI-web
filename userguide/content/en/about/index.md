@@ -13,15 +13,7 @@ Spearheaded by Academician Ding Hong, Deputy Director of Tsung-Dao Lee Institute
 Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are two sides of the same coin,” the center aspires to become a world-class interdisciplinary innovation platform—integrating science, art, and nature.
 {{% /blocks/cover %}}
 
-{{% blocks/section color="gray" %}}
-## **Mission**
-
-* Interdisciplinary Exchange: Break down disciplinary barriers, enabling scientists and artists to engage in dialogue and collaboration.
-* Knowledge Sharing: Share the latest achievements in science and art with the public through lectures, exhibitions, and workshops.
-* Creative Support: Provide a quiet, flexible, and resource-rich environment for resident scholars and artists.
-* Community Connection: Build long-term partnerships with cultural, educational, and research institutions in Dali and around the world.
-
-{{% /blocks/section %}}
+{{% blocks/section color="gray" height="auto"%}}
 
 ## Events
 {{< cardpane >}}
@@ -36,7 +28,9 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
   {{< /card >}}
 {{< /cardpane >}}
 
-{{% blocks/section color="light" %}}
+{{% /blocks/section %}}
+
+{{% blocks/section color="300" %}}
 
 
 ### Residency Program
@@ -59,7 +53,7 @@ Volunteers, board members, and partners contribute significant time and energy e
 [Learn more...](/docs/deployment/)
 {{% /blocks/section %}}
 
-{{% blocks/section color="300" %}}
+{{% blocks/section color="white" %}}
 
 ### Visit Us
 
