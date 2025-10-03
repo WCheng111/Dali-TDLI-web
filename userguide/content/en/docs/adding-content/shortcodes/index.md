@@ -11,6 +11,14 @@ resources:
 params:
   message: Some _message_.
 cSpell:ignore: imgproc pageinfo Bjørn Pedersen
+
+resources:
+  - src: '**Conference202502*.jpeg'
+    params:
+      byline: '*Photo*: Conference'
+params:
+  message: Some _message_.
+cSpell:ignore: imgproc pageinfo Bjørn Pedersen
 ---
 
 Rather than writing all your site pages from scratch, Hugo lets you define and
