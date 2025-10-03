@@ -4,8 +4,6 @@ linkTitle: Programs
 
 description: Welcome!
 ---
-
-
 Each year, the Center hosts approximately 20 international academic and artistic programs, ranging from one to four weeks in duration. These programs focus on cutting-edge topics in fundamental science and avant-garde artistic creation, encouraging deep interdisciplinary exploration. Participation is by invitation only, and selected participants may request financial support for travel and accommodation.
 
 Scholars, artists, and institutions interested in proposing or attending a future program should submit an application including:
