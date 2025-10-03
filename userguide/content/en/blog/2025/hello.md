@@ -1,6 +1,6 @@
 ---
-title: Public Engagement
-linkTitle: Public Engagement
+title: Residency & Workspace
+linkTitle: Residency & Workspace
 date: 2022-04-07
 description: Welcome!
 ---

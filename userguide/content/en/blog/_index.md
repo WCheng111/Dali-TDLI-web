@@ -15,5 +15,4 @@ For inquiries, proposals, or suggestions on how the Center can further stimulate
 📍 Dali International Holiday Retirement Community, Yunnan, China
  
 Join us in Dali to imagine the future of science and art.
-=======
->>>>>>> parent of e08ffa9 (Update _index.md)
+

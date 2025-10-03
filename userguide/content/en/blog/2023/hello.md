@@ -1,7 +1,7 @@
 ---
 title: Programs
 linkTitle: Programs
-date: 2022-04-07
+
 description: Welcome!
 ---
 
@@ -15,4 +15,7 @@ Scholars, artists, and institutions interested in proposing or attending a futur
 •	Whether financial assistance is requested
 Applications are reviewed on a rolling basis. Due to limited space, early submission is encouraged.
 
-👉 [Apply to a Program]: https://github.com/chalin
+{{% blocks/feature icon="fa-lightbulb" title="Apply to a Program!" url="/https://github.com/chalin/" %}}
+
+{{% /blocks/feature %}}
+
