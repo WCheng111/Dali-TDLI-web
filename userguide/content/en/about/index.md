@@ -24,6 +24,12 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 {{% blocks/section color="gray" height="auto"%}}
 
 ## Events
+{{% imgproc Conference202502.jpeg Fit "400x300" %}}  
+{{% /imgproc %}}
+
+{{% imgproc spruce Fill "400x450" %}}
+Norway Spruce *Picea abies* shoot with foliage buds.
+{{% /imgproc %}}
 
 
 {{< cardpane >}}
