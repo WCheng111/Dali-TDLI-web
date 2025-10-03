@@ -1,7 +1,7 @@
 ---
 title: Welcome to Docsy
 linkTitle: Activity
-menu: { main: { weight: 20 } }
+menu: { main: { weight: 50 } }
 ---
 
 Welcome to the Docsy theme user guide! This guide shows you how to get started
