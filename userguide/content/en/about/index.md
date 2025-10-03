@@ -2,6 +2,14 @@
 title: About
 linkTitle: About
 menu: {main: {weight: 70}}
+
+resources:
+  - src: '**Conference202502*.jpeg'
+    params:
+      byline: '*Photo*: Conference'
+params:
+  message: Some _message_.
+cSpell:ignore: imgproc pageinfo Bjørn Pedersen
 ---
 
 {{% blocks/cover title="About" height="auto" %}}
@@ -42,8 +50,10 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 
 {{% /blocks/section %}}
 
-{{% imgproc Conference202502.jpeg Fit "400x300" %}}  
-{{% /imgproc %}}
+{{ with resources.GetMatch "conference202502.jpeg" }}
+  <img src="{{ .RelPermalink }}" alt="Conference Poster" width="400">
+{{ end }}
+
 
 {{% blocks/section color="300" %}}
 
