@@ -1,9 +1,18 @@
 ---
 title: Welcome to Docsy
 linkTitle: Activity
-menu: { main: { weight: 50 } }
+menu: { main: { weight: 100 } }
 ---
 
+{{< figure src="my-image.png" title="图：示例图片说明" >}}
+
+This is a test.
+
+
+
+
+
+<!-- 
 Welcome to the Docsy theme user guide! This guide shows you how to get started
 creating technical documentation sites using Docsy, including site customization
 and how to use Docsy's blocks and templates.
@@ -75,4 +84,4 @@ updated along with Docsy).
 Find out how to build and serve your first site in
 [Get Started](/docs/get-started/). Or visit the
 [example site](https://example.docsy.dev) and
-[its repo](https://github.com/google/docsy-example) and start exploring!
+[its repo](https://github.com/google/docsy-example) and start exploring! -->
