@@ -4,7 +4,7 @@ linkTitle: Activity
 menu: { main: { weight: 100 } }
 ---
 
-{{< figure src="my-image.png" title="图：示例图片说明" >}}
+{{< figure src="1.png" title="图：示例图片说明" >}}
 
 This is a test.
 
