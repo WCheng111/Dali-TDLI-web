@@ -53,20 +53,21 @@ Norway Spruce *Picea abies* shoot with foliage buds.
   {{< /card >}}
 {{< /cardpane >}} -->
 {{< cardpane >}}
+{{< /card >}}
   {{< card header="**February 2025**" title="International Conference on Majorana Zero Modes: from Topological Superconductors to Non-Abelian Braiding Statistics" >}}
     Content card 1  
     {{< imgproc "640.jpg" Fit "400x300" >}}  
     {{< /imgproc >}}
     *Majorana Conference Poster*
   {{< /card >}}
-
+{{< /card >}}
   {{< card header="**July 2025**" title="Symposium on the Beauty of Science and Art" >}}
     Content card 2  
     {{< imgproc "Symposium202507.jpg" Fit "400x300" >}}  
     {{< /imgproc >}}
     *Symposium Poster*
   {{< /card >}}
-
+{{< /card >}}
   {{< card header="**Imagine**3" >}}
     Content card 3  
     {{< imgproc "imagine.jpg" Fit "400x300" >}}  
