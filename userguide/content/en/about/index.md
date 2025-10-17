@@ -3,13 +3,12 @@ title: About
 linkTitle: About
 menu: {main: {weight: 70}}
 
+
 resources:
-  - src: '**640*.jpg'
-    params:
-      byline: '*Photo*: Conference'
-params:
-  message: Some _message_.
-cSpell:ignore: imgproc pageinfo Bjørn Pedersen
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+  params:
+    byline: "Photo: Riona MacNamara / CC-BY-CA"
 ---
 
 {{% blocks/cover title="About" height="auto" %}}
@@ -31,6 +30,10 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 Norway Spruce *Picea abies* shoot with foliage buds.
 {{% /imgproc %}}
 
+
+{{< imgproc 640 Fill "600x300" >}}
+Fetch and scale an image in the upcoming Hugo 0.43.
+{{< /imgproc >}}
 
 <!-- {{< cardpane >}}
   {{< card header="**February 2025**" title="International Conference on Majorana Zero Modes: from Topological Superconductors to Non-Abelian Braiding Statistics" >}}
