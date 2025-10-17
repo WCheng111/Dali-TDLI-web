@@ -5,7 +5,7 @@ menu: {main: {weight: 70}}
 
 
 resources:
-- src: "**.{png,jpg}"
+- src: "**.{png,jpg,jpeg}"
   title: "Image #:counter"
   params:
     byline: "Photo: Riona MacNamara / CC-BY-CA"
@@ -23,15 +23,8 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 {{% blocks/section color="gray" height="auto"%}}
 
 ## Events
-{{% imgproc 640.jpg Fit "400x300" %}}  
-{{% /imgproc %}}
 
-{{% imgproc spruce Fill "400x450" %}}
-Norway Spruce *Picea abies* shoot with foliage buds.
-{{% /imgproc %}}
-
-
-{{< imgproc 640 Fill "600x300" >}}
+{{< imgproc Conference202502 Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 
