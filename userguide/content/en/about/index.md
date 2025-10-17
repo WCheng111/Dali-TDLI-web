@@ -11,7 +11,7 @@ params:
   message: Some _message_.
 cSpell:ignore: imgproc pageinfo Bjørn Pedersen
 resources:
-  - src: "**.{png,jpg}"
+  - src: "**featured-640.{png,jpg}"
     title: "Image #:counter"
     params:
       byline: "Photo: Riona MacNamara / CC-BY-CA"
@@ -34,7 +34,9 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 {{< /imgproc >}}
 
 
-
+{{< imgproc featured-640.jpg Fill "600x300" >}}
+Fetch and scale an image in the upcoming Hugo 0.43.
+{{< /imgproc >}}
 ## Events
 
 {{< imgproc 640 Fill "600x300" >}}
