@@ -4,7 +4,7 @@ linkTitle: About
 menu: {main: {weight: 70}}
 
 resources:
-  - src: '**featured-640*.jpg'
+  - src: '**featured-640.jpg'
     params:
       byline: '*Photo*: Bjørn Erik Pedersen / CC-BY-SA'
 params:
