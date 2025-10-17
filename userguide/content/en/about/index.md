@@ -27,7 +27,7 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 {{% /blocks/cover %}}
 
 {{% blocks/section color="gray" height="auto"%}}
-
+![](file:///Users/xinyuliang/Documents/GitHub/Dali-TDLI-web/userguide/content/en/about/featured-640.jpg)
 
 {{< imgproc 640 Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
