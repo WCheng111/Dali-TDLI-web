@@ -26,8 +26,10 @@ Spearheaded by Academician Ding Hong, Deputy Director of Tsung-Dao Lee Institute
 Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are two sides of the same coin,” the center aspires to become a world-class interdisciplinary innovation platform—integrating science, art, and nature.
 {{% /blocks/cover %}}
 
+![](https://en.wikipedia.org/wiki/File:Ward_Cunningham_-_Commons-1.jpg)
+
 {{% blocks/section color="gray" height="auto"%}}
-![](file:///Users/xinyuliang/Documents/GitHub/Dali-TDLI-web/userguide/content/en/about/featured-640.jpg)
+
 
 {{< imgproc 640 Fill "600x300" >}}
 Fetch and scale an image in the upcoming Hugo 0.43.
