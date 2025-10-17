@@ -5,10 +5,10 @@ menu: {main: {weight: 70}}
 
 
 resources:
-- src: "640.{jpg}"
-  title: "Image #:counter"
-  params:
-    byline: "Photo: Riona MacNamara / CC-BY-CA"
+  - src: "**.{png,jpg}"
+    title: "Image #:counter"
+    params:
+      byline: "Photo: Riona MacNamara / CC-BY-CA"
 ---
 
 {{% blocks/cover title="About" height="auto" %}}
@@ -21,6 +21,13 @@ Inspired by Nobel Laureate Tsung-Dao Lee’s vision that “science and art are 
 {{% /blocks/cover %}}
 
 {{% blocks/section color="gray" height="auto"%}}
+
+
+{{< imgproc 640 Fill "600x300" >}}
+Fetch and scale an image in the upcoming Hugo 0.43.
+{{< /imgproc >}}
+
+
 
 ## Events
 
