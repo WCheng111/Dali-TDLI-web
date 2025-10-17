@@ -3,7 +3,13 @@ title: About
 linkTitle: About
 menu: {main: {weight: 70}}
 
-
+resources:
+  - src: '**featured-640*.jpg'
+    params:
+      byline: '*Photo*: Bjørn Erik Pedersen / CC-BY-SA'
+params:
+  message: Some _message_.
+cSpell:ignore: imgproc pageinfo Bjørn Pedersen
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
